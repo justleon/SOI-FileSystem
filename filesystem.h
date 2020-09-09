@@ -39,6 +39,7 @@ typedef struct fsys_iNode{
     char name[96];
 } fsys_iNode;
 
+
 //errors
 #define FILE_ALREADY_EXISTS     -1
 #define NO_INODES               -2
